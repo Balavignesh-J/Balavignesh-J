@@ -20,7 +20,7 @@ alt="Coding Gif" width="300" height="250" />
 ### 📫 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bala-vignesh-9061a4292" target="_blank">
+  <a href="www.linkedin.com/in/bala-vignesh-j" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
