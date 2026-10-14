@@ -34,7 +34,14 @@ alt="Coding Gif" width="300" height="250" />
   <img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
   <img height="40" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
   <img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" />
+  <img height="40" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" title="MongoDB" />
+  <img height="40" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="ExpressJs" title="ExpressJs" />
   <img height="40" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" alt="React" title="React" />
+  <img height="40" src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=000000" alt="NodeJs" title="NodeJs" />
+  <img height="40" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="Java" title="Java"/>
+  <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python"/>
+  <img height="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" title="C"/>
+  <img height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" title="C++"/>
 </p>
 
 ### ⚙️ Tools I Use  
@@ -51,8 +58,5 @@ alt="Coding Gif" width="300" height="250" />
   <img src="https://github-readme-stats.vercel.app/api?username=balavignesh-j&show_icons=true&theme=radical" alt="Balavignesh's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balavignesh-j&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-### 📈 Activity Graph  
-[![Balavignesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balavignesh-j&bg_color=0d1117&color=79fe96&line=7dd3fc&point=f5a623&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 🔥 *"Striving to make the web a better place, one project at a time!"*
