@@ -35,10 +35,10 @@ alt="Coding Gif" width="300" height="250" />
   <img height="40" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
   <img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" />
   <img height="40" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" title="MongoDB" />
-  <img height="40" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="ExpressJs" title="ExpressJs" />
+  <img height="40" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="ExpressJs" title="ExpressJs" />
   <img height="40" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" alt="React" title="React" />
-  <img height="40" src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=000000" alt="NodeJs" title="NodeJs" />
-  <img height="40" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="Java" title="Java"/>
+  <img height="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="NodeJs" title="NodeJs" />
+  <img height="40" src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" alt="Java" title="Java"/>
   <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python"/>
   <img height="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" title="C"/>
   <img height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" title="C++"/>
