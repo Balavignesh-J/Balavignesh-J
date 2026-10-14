@@ -43,11 +43,28 @@ alt="Coding Gif" width="300" height="250" />
   <img height="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" title="C"/>
   <img height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" title="C++"/>
 </p>
+
 #### **Coding Profiles**  
-<p align="left">
-  <a href="https://leetcode.com/u/balavignesh__j/"><img height="40" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="Leetcode" title="Leetcode" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/balavignesh116"><img height="40" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GFG" title="GFG" /></a>
-</p>
+
+<div align="left">
+  <a href="https://leetcode.com/u/balavignesh__j/" target="_blank">
+    <img
+      height="40"
+      src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000"
+      alt="LeetCode"
+      title="LeetCode"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/balavignesh116" target="_blank">
+    <img
+      height="40"
+      src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000"
+      alt="GeeksforGeeks"
+      title="GeeksforGeeks"
+    />
+  </a>
+</div>
 
 ### ⚙️ Tools I Use  
 - **Editor:** Visual Studio Code  
